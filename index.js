@@ -1,13 +1,5 @@
-const App =()=>{
-        return(
-       <div>
-           
-       </div>
-    )
-}
+const App = () => {
+  return <div></div>;
+};
 
-
-ReactDOM.render(
-    <App />,
-    document.getElementById('root')
-  );
+ReactDOM.render(<App />, document.getElementById('root'));
